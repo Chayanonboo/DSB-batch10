@@ -3,3 +3,8 @@ My data science and analytics projects
 
 ## My personal projects
 1. R programming
+
+## Contact Me
+reach out to me at bcc3110@gmail.com
+
+## Image
