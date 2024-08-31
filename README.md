@@ -8,4 +8,4 @@ My data science and analytics projects
 reach out to me at bcc3110@gmail.com
 
 ## Image
-![alya]([https://www.netflix.com/sg/title/81661821](https://www.reddit.com/r/TokidokiBosottoRoshia/comments/1bktsy3/alya_pv_screenshots/))
+![Alya](https://www.animefeminist.com/alya-sometimes-hides-her-feelings-in-russian-episode-1/)
