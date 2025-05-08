@@ -5,6 +5,7 @@ install.packages("glue")
 library(glue)
 ## crust 
 
+# create crust
 list_crust <- data.frame(list(
   crust_id = 1:4,
   crust_name = c("Thin",
@@ -14,7 +15,7 @@ list_crust <- data.frame(list(
   price = c(20,25,30,35)
 ))
 
-## topping 
+## create topping 
 list_topping <- data.frame(list(
   topping_id = 1:5,
   topping_name = c(
@@ -27,7 +28,7 @@ list_topping <- data.frame(list(
   price = c(250,260,270,280,290)
 ))
 
-## other 
+## create other 
 list_other <- data.frame(list(
   other_id = 1:3,
   other_name = c(
@@ -40,12 +41,14 @@ list_other <- data.frame(list(
 
 wel <- "yes"
 
+## create the welcome bot
 pizza <- function() {
   print(c("Hello", 
           "My name is Non,welcome to pizza restaurant!"
           ))
   welcome <- readline("How can I help you?")
-### home 
+
+## home 
   if(tolower(welcome == wel)){
 ## crust 
     print("Select your crust")
