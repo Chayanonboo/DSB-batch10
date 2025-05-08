@@ -3,14 +3,17 @@ install.packages("RSQLite")
 library(tidyverse)
 library(RSQLite)
 
+## ทำเพื่อสามารถสร้าง database table บนโปรแกรม R ได้
 res <- dbConnect(SQLite(), "non_reataurant.db")
 
+## 1. Create Staff Table
 staff <- data.frame(
   idStaff = 1:5,
   nameStaff = c("non","nan","nun","mind","kung"),
   position = c("Manager","Chef","Waiter","Waiter","Cashier")
 )
 
+## 1. Create Menu Table
 menu <- data.frame(
   idMenu = 1:4,
   name = c("pizza","Chicken","ice cream","drinking water"),
