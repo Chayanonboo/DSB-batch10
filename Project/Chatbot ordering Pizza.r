@@ -1,4 +1,4 @@
-## homework
+## chatbot order Pizza 
 ## ขั้นตอนในการใช้โปรแกรมนี้
 ## 1. สามารถเริ่มการใช้ Program Chatbot ordering Pizza ได้ด้วยการกดฟังก์ชัน pizza()
 ## 2. จะมีประโยคขึ้นมาดังนี้ 
@@ -31,7 +31,7 @@ How can I help you?
 3        3 BBQ Chickern Wings    78
 ## 7 สุดท้ายจะแสดงผลลัพธ์ออกมาดังนี้ [1] "The total price is 317 $"
 
-## 1. chatbot order Pizza 
+## chatbot order Pizza 
 install.packages("glue")
 
 library(glue)
