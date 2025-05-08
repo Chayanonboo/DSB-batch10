@@ -1,4 +1,4 @@
-## 2. pao ying chub
+## 2. Rock-Paper-Scissors
 
 hands <- c("rock", "paper", "scissors")
 user_win <- print("You got me GG easy.")
