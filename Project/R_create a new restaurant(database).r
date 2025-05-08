@@ -43,9 +43,14 @@ dbWriteTable(res,"menus",menu)
 dbWriteTable(res,"order",order_menu)
 dbWriteTable(res,"customers",customer)
 
+## ดึงชื่อตารางที่อยู่ในตัวแปร res ออกมา
 dbListTables(res)
 
+## ดึงข้อมูลของแถวที่อยู่ในตาราง staff ออกมา
 dbListFields(res,"staffs")
+
+## ดึงข้อมูลทั้งหมดที่อยู่ในตาราง staff ออกมา
 dbGetQuery(res, "select * from staffs")
 
+## ดึงข้อมูล Customer_id ในชื่อ id ที่อยู่ในตาราง customers ออกมา
 dbGetQuery(res, "select customer_id as id from customers")
