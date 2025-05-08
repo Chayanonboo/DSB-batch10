@@ -1,4 +1,7 @@
 ## homework 
+## สามารถเริ่มการใช้ Program Chatbot ordering Pizza ได้ด้วยการกดฟังก์ชัน pizza()
+
+
 ## 1. chatbot order Pizza 
 install.packages("glue")
 
@@ -11,7 +14,7 @@ list_crust <- data.frame(list(
   crust_name = c("Thin",
                  "Pan",
                  "Sausage",
-                 "Extreme-cheese")
+                 "Extreme-cheese"),
   price = c(20,25,30,35)
 ))
 
@@ -84,3 +87,4 @@ pizza <- function() {
     print("Thank for your serving")
   }
 }
+
