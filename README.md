@@ -23,8 +23,8 @@ chatbot order Pizza เพื่อสามารถเลือก Crust, Topp
 2. Play for 10 rounds
 3. Sum scores and announce a winner at the end
 
-## 4. R - Create a new Restaurant (database) in R
-ทำเพื่อสามารถสร้าง database table บนโปรแกรม R ได้
+## 4. R - Create a new Restaurant (SQL database) in R
+ทำเพื่อสามารถสร้าง database table ของ SQL บนโปรแกรม R ได้
 
 ## 5. R - R_Hands-On-Programming-with-R-CH-1-7
 Notion summary for understand basic of program R from Hands-On Programming with R by Garrett Grolemund
