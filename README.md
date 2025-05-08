@@ -5,5 +5,5 @@ Contains code for Data Science Bootcamp Batch 10
 1. SQL - Restaurant
 2. R - Chatbot_Ordering_Pizza
 3. R - Rock-Paper-Scissors
-4. 
+4. R - Create a new Restaurant (database) in R
    
