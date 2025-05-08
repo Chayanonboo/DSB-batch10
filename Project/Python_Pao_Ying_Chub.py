@@ -37,3 +37,56 @@ def pao_ying_chub():
                 continue
 
 pao_ying_chub()
+
+## Result
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+rock
+You choose: rock
+Bot choose: scissor
+Now : user have 1 point!
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+scissor
+You choose: scissor
+Bot choose: paper
+Now : user have 2 point!
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+rock
+You choose: rock
+Bot choose: rock
+Tie
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+paper
+You choose: paper
+Bot choose: paper
+Tie
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+scissor
+You choose: scissor
+Bot choose: paper
+Now : user have 3 point!
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+paper
+You choose: paper
+Bot choose: scissor
+Now : bot have 1 point!
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+paper
+You choose: paper
+Bot choose: scissor
+Now : bot have 2 point!
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+paper
+You choose: paper
+Bot choose: scissor
+Now : bot have 3 point!
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+paper
+You choose: paper
+Bot choose: rock
+Now : user have 4 point!
+Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
+paper
+You choose: paper
+Bot choose: rock
+Now : user have 5 point!
+You win Pao Ying Chub game!
