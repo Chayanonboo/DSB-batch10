@@ -3,6 +3,15 @@
 ## 2. Play for 10 rounds
 ## 3. Sum scores and announce a winner at the end
 
+## ขั้นตอนจะมีให้ Choice ในการแข่งกับ Bot ทั้งหมด 3 Choice ครับ ดังนี้ครับ
+(rock, paper, or scissors) โดยที่ต้องเลือกคำเหล่านี้จนกว่าจะเล่นกันครบ 10 Turn จึงจะรู้ผลลัพธ์ว่าใครแพ้ใครชนะครับ
+[1] "Let's play 'Rock Paper Scissors'! Whoever reaches 10 points first wins."
+What whould you throw(rock, paper, or scissors).: rock
+[1] "paper"
+[1] "User R win"
+[1] "Current User R have  1 point"
+[1] "Current you have  0 point"
+
 hands <- c("rock", "paper", "scissors")
 user_win <- print("You got me GG easy.")
 r_win <- print("User R win")
