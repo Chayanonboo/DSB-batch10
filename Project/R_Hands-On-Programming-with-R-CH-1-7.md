@@ -1,2 +1,2 @@
-## R-Notion-Summary-Hands-On-Programming-with-R
-Notion summary : [https://chayanonboo.notion.site/Homework-Summary-Hands-On-Programming-with-R-CH-1-7-db31c14acafc478594c388c66962cec8?pvs=4](https://chayanonboo.notion.site/Homework-Summary-Hands-On-Programming-with-R-CH-1-6-db31c14acafc478594c388c66962cec8?pvs=4)
+## R-Notion-Summary-Hands-On-Programming-with-R 
+Notion summary for understand basic of program R from Hands-On Programming with R by Garrett Grolemund  : [https://chayanonboo.notion.site/Homework-Summary-Hands-On-Programming-with-R-CH-1-7-db31c14acafc478594c388c66962cec8?pvs=4](https://chayanonboo.notion.site/Homework-Summary-Hands-On-Programming-with-R-CH-1-6-db31c14acafc478594c388c66962cec8?pvs=4)
