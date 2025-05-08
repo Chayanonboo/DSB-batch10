@@ -37,7 +37,7 @@ def pao_ying_chub():
                 continue
 
 pao_ying_chub()
-
+Pao_Ying_Chub สามารถเล่น rock, scissor, paper จนจบเกมได้
 ## Result
 Who has 5 point first is win, please choose one of these hands: ['rock', 'paper', 'scissor']
 rock
