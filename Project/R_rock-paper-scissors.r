@@ -1,4 +1,7 @@
-## 2. Rock-Paper-Scissors
+## Rock-Paper-Scissors
+## 1. Game of Rock-Paper-Scissors
+## 2. Play for 10 rounds
+## 3. Sum scores and announce a winner at the end
 
 hands <- c("rock", "paper", "scissors")
 user_win <- print("You got me GG easy.")
