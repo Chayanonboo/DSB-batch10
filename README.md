@@ -10,11 +10,11 @@ Create at least 3 tables write sql Queries at least 3 queries
 
 -Staff
 
--menu
+-Menu
 
--ingredient
+-Ingredient
 
-- with clause
+- With Clause
 - Subquery
 - Aggregate function & group by
    
