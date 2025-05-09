@@ -7,8 +7,11 @@ Contains code for Data Science Bootcamp Batch 10
 Create at least 3 tables write sql Queries at least 3 queries
 
 -Transcation
+
 -Staff
+
 -menu
+
 -ingredient
 
 - with clause
