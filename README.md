@@ -31,3 +31,6 @@ Notion summary for understand basic of program R from Hands-On Programming with 
 
 ## 6. Python -  Python_Pao_Ying_Chub
 Pao_Ying_Chub สามารถเล่น rock, scissor, paper จนจบเกมได้
+
+## 7.Xml - Create cafe menu with XML
+สามารถสร้าง Cafe พร้อมชื่อ Cake Price และ Taste ได้
