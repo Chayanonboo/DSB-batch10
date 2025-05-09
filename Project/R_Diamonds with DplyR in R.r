@@ -9,7 +9,7 @@ diamond_df <- diamonds %>% sample_frac(0.15)
 
 ## head of diamond
 head(diamond_df)
-![head of diamond](head of diamond.png)
+![dsb-batch10](head of diamond.png)
 
 ## library(ggplot2)
 library(ggplot2)
