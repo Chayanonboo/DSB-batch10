@@ -1,21 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
 <cafe>
-  
+
   <cake>
     <name>Oreo Chesse Cake</name>
     <price>2.50</price>
-    <taste>sweet<taste>
-      
+    <taste>sweet</taste>
   </cake>
+
   <cake>
     <name>Bluebeery Chesse Cake</name>
     <price>4.50</price>
-    <taste>sweet<taste>
+    <taste>sweet</taste>
   </cake>
-  
+
   <cake>
     <name>New York Chesse Cake</name>
     <price>5.50</price>
-    <taste>salty<taste>
+    <taste>salty</taste>
   </cake>
 
   <drink>
@@ -29,5 +31,5 @@
     <price>1.00</price>
     <taste>tasteless</taste>
   </drink>
-  
-<cafe>    
+
+</cafe> 
