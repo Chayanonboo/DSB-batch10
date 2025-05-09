@@ -1,5 +1,5 @@
 ## Pao Ying Chub
-import random
+```py import random
 def pao_ying_chub():
     user_score = 0
     bot_score = 0
@@ -90,3 +90,4 @@ You choose: paper
 Bot choose: rock
 Now : user have 5 point!
 You win Pao Ying Chub game!
+```
