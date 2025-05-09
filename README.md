@@ -5,10 +5,15 @@ Contains code for Data Science Bootcamp Batch 10
 ## 1. SQL - Restaurant
 
 Create at least 3 tables write sql Queries at least 3 queries
+
 -Transcation
+
 -Staff
+
 -menu
+
 -ingredient
+
 - with clause
 - Subquery
 - Aggregate function & group by
