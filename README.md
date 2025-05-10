@@ -46,3 +46,6 @@ Pao_Ying_Chub สามารถเล่น rock, scissor, paper จนจบ�
 ## 9. Python_Public API Request
 สามารถดึงข้อมูลจาก url = "https://www.verywellmind.com/how-to-become-a-more-effective-learner-2795162"
 ออกมาเพื่อใช้งานได้
+
+## 10. Data viz with ggplot (Diamond Data)
+สามารถแสดงว่ากราฟโดยใช้ ggplot สำหรับ program R ได้
